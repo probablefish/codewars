@@ -1,4 +1,5 @@
 // Successful solution
+using System;
 
 public class Kata
 {
@@ -9,7 +10,7 @@ public class Kata
         if (sqrt % 1 == 0)
         {
         long floor = (long) Math.Floor(sqrt);
-        long next = Convert.ToInt32(floor + 1);
+        long next = floor + 1;
     
         return next * next;
         }
