@@ -1,3 +1,5 @@
+// Successful solution
+
 using System;
 public class Kata
 {
