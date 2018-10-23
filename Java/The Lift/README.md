@@ -82,10 +82,10 @@ capacity maximum number of people allowed in the lift
 
 Parameter validation - All input parameters can be assumed OK. No need to check for things like:
 
-People wanting to go to floors that do not exist
-People wanting to take the Lift to the floor they are already on
-Buildings with < 2 floors
-Basements
+- People wanting to go to floors that do not exist
+- People wanting to take the Lift to the floor they are already on
+- Buildings with < 2 floors
+- Basements
 
 **Output**
 
