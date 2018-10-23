@@ -13,6 +13,7 @@ Some people want to go up. Some people want to go down.
 The floor they want to go to is represented by a number (i.e. when they enter the Lift this is the button they will press)
 
 **BEFORE (people waiting in queues)**               **AFTER (people at their destinations)**
+
                    +--+                                          +--+ 
   /\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-|  |\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\\        /\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-|  |\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\\
 10|                |  | 1,4,3,2        |      10|             10 |  |                |
